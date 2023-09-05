@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikkideVries
-- 👀 I’m interested in Marine Biology, Environmental Science, and Data Science 
-- 🌱 I’m currently learning at CodeUp
+- I’m interested in Marine Biology, Environmental Science, and Data Science 
+- 📚 currently learning at CodeUp
 
 
 
