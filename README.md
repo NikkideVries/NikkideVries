@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @NikkideVries
+- 📪 nikki.devries7@gmail.com
 - I’m interested in Marine Biology, Environmental Science, and Data Science 
 - 📚 currently learning at CodeUp
 
