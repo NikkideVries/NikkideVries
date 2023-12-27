@@ -1,5 +1,5 @@
-![Alt text](Github.png)
 
+![Alt text](Github.png)
 
 - 👋 Hi, I’m @NikkideVries
 - 📪 nikki.devries7@gmail.com
