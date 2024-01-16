@@ -1,10 +1,18 @@
 
 ![Alt text](Github.png)
 
-- 👋 Hi, I’m @NikkideVries
-- 📪 nikki.devries7@gmail.com
-- I’m interested in Marine Biology, Environmental Science, and Data Science 
-- 📚 currently learning at CodeUp
+---
+
+### :woman_technologist: About me:
+Hello! I'm Nikki de Vries. I am currently learning data science from Codeup with a passion for data storytelling and finding new insights to solve problems with data. 
+
+How did I come into data science?
+For starters, I am a Marine Biologist and Environmental Scientist. I went to Texas A&M Corpus Christi, where I received my bachelor's. I worked in an environmental chemistry lab for a year, where I played a pivotal role in data collection by meticulously cleaning plastics and contributing over 2,500 data points. I researched data science in my senior year and became fascinated with the idea of being able to analyze and problem-solve using data. My biggest driver is that I want to use data science to help in marine biology and environmental science fields to create a better future.
+
+---
+### How to find me: 
+- ✉️ My email: nikki.devries7@gmail.com
+- 📃 My Linkedin: https://www.linkedin.com/in/nikki-d-005a42263/
 
 
 
